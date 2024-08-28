@@ -8,6 +8,8 @@ The Pong game consists of two paddles and a ball. Players control the paddles to
 
 ## Screenshots
 
+https://github.com/user-attachments/assets/7ed7c7b3-7df3-4c77-ace3-9d0f5f3b40a2
+
 ![Game Screenshot 1](https://github.com/user-attachments/assets/e6e224f5-673a-4f56-81f8-a71d17d6c925)
 ![Game Screenshot 2](https://github.com/user-attachments/assets/61b452d4-03a0-4c54-a843-d353c301e183)
 ![Game Screenshot 3](https://github.com/user-attachments/assets/fdd9d86f-878b-44f2-8c6a-0b323d9294a0)
